@@ -10,3 +10,12 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
 * Belajar control flow dalam Java, seperti perulangan dan percabangan.
 * Belajar tipe data koleksi, seperti list, set, dan map.
+
+# ini Heading
+line break pake double spasi di akhir kalimat atau tag <br> 
+harusnya ini line baru  
+membuat list
+- list pake mines
++ list pake plus
+* list pake bintang  
+  semuanya sama aja
