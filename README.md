@@ -1,10 +1,6 @@
-# Dibuang-Sayang 
-Tutorial dari dicoding
---
-Ini Hedaing juga tapi pake ==
-==
-*setelah ini list
-- 1.satu
-- 2.dua
-- 3.tiga
+Pengalaman Belajar di Dicoding
 
+14 Juni 2021
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
+* Belajar tentang apa itu Java dan alasan menggunakannya.
+* Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
